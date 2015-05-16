@@ -194,13 +194,13 @@ The median for the fixed total number of steps taken per day is 10766.19
 
 **Do these values differ from the estimates from the first part of the assignment?**
 
-  The spike in the original histogram in the 0-2000 bucket due to missing values has not been redistributed with the new histogram presenting a smoother distribution.
+  The spike in the original histogram in the 0-2000 bucket due to missing values has now been redistributed with the new histogram presenting a smoother distribution.
   
   The mean value increased from 9354.23 to 10766.19, while the median value increased from 10395.00 to 10766.19
 
 **What is the impact of imputing missing data on the estimates of the total daily number of steps?**
 
-  The difference between the two estimates have effectively vanished.
+  The difference between the two estimates has effectively vanished.
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
